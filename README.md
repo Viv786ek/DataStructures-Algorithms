@@ -32,4 +32,4 @@ I like teaching, and hence launched my YouTube channel recently.
   b. Google APAC Global Rank: #25 (Round D, 2017)    
   c. Codeforces Rating: 2018 (DIV 1)      
   d. Did internships in Flipkart(III Year) and Grofers(II Year).    
-  e. Launched YouTube Channel for DS, Algos for teaching.
+  e. Launched YouTube Channel for DS, Algos for teaching..
